@@ -1,0 +1,24 @@
+# 个人投资偏好模板；null 表示未知，不代表零或不接受。
+# 本文件留空即可分析项目。用户明确提供后才能更新；不自行推断。
+profile_version: 1
+purpose: "personal-primary-market-investment"
+preferred_language: "zh-CN"
+base_currency: null
+focus_industries: null
+excluded_industries: null
+preferred_stages: null
+geographies: null
+ticket_min: null
+ticket_max: null
+maximum_acceptable_loss_per_project: null
+maximum_capital_lockup_years: null
+required_return_metric: null # 例如净IRR或MOIC，必须明确口径。
+required_return_value: null
+follow_on_capacity: null
+existing_private_investment_exposure: null
+concentration_constraints: null
+liquidity_needs: null
+domain_expertise: null
+resources_available_to_company: null
+other_constraints: null
+last_user_confirmed_date: null

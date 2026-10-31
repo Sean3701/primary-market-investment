@@ -1,0 +1,4 @@
+interface:
+  display_name: "一级市场投资助手"
+  short_description: "根据商业BP评估各阶段未上市项目，核验投资逻辑、融资条款与个人适配"
+  default_prompt: "使用 $primary-market-investment 分析我上传的 BP，先给初筛判断、关键风险和下一步尽调问题；区分公司陈述与已核实事实。"
