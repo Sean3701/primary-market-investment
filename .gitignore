@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_Store
+*.zip
+*.tmp
+.env
+.env.*
+private/
+reports/
+inputs/
